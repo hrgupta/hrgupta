@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 Hi! I’m ***Harshit Gupta***, a 2020 Graduate of Master of Science in Information Management (MSIM) at University of Illinois at Urbana-Champaign with a focus in Data Science and Product Development.
 
