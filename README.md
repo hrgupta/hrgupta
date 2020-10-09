@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi! I’m ***Harshit Gupta***, a 2020 Graduate of Master of Science in Information Management (MSIM) at University of Illinois at Urbana-Champaign with a focus in Data Science and Product Development.
+
+I see myself at the intersection of business and technology ⛌ solving business problems by using innovative technological solutions.  I am passionate about AI/ML and developing data-driven products and solutions that solve real world problems. Besides this, I am a research assistant for data quality where I understand the factors that improve data quality.
+
+Along with being a tech professional ✨ I have varied interests 👀 (business, technology, design, philosophy)💯. I like to read and keep me informed about a lot of stuff since I have a voracious appetite to know about many things. I am currently focusing on NLP techniques as I am using it currently at my job. ✌️ I want to dive deep into other fields of ML as well such as Reinforcement Learning which I hope to soon *fingers crossed*.
+
+*Thank you for your time.*
+
 <!--
 **hrgupta/hrgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
